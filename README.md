@@ -14,7 +14,7 @@ This project implements a decentralized auction system that includes:
 - 💸 **Bid refunding** — Losing bidders can safely withdraw their previous bids.
 
 ---
-
+ 
 ## 🎯 Why Build This?
 
 In traditional and on-chain auctions, last-second bidders ("snipers") can unfairly win by placing a bid moments before the auction ends — giving no time for counter-bids.
