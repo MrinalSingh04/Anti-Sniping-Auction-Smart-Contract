@@ -4,7 +4,7 @@ A Solidity smart contract for running fair auctions that **prevents last-second 
 
 ---
 
-## 🔍 What is This?
+## 🔍 What is This? 
 
 This project implements a decentralized auction system that includes:
 
